@@ -1,4 +1,4 @@
-# wqd7003-group-assignment
+# Google Analytics Customer Revenue Prediction
 
 ## Teammates
 - Kak D Wing
@@ -6,5 +6,4 @@
 - Teo Boon Leong
 - Too Ai Leng
 
-## updates:
-- cleaned data
+## this repo will be tidied up and make public within this week

@@ -1,4 +1,5 @@
 # Google Analytics Customer Revenue Prediction
+Prediction on how much GStore customers will spend
 
 ## Teammates
 - Kak D Wing
@@ -6,4 +7,7 @@
 - Teo Boon Leong
 - Too Ai Leng
 
-this repo will be tidied up and make public within this week
+Link:
+```
+https://www.kaggle.com/c/ga-customer-revenue-prediction
+```

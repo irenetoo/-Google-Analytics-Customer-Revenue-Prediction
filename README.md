@@ -1,5 +1,5 @@
 # Google Analytics Customer Revenue Prediction
-Prediction on how much GStore customers will spend
+A small project on predicting how much GStore customers will spend
 
 ## Teammates
 - Kak D Wing

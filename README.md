@@ -7,7 +7,7 @@ Prediction on how much GStore customers will spend
 - Teo Boon Leong
 - Too Ai Leng
 
-Link:
+Competition Link:
 ```
 https://www.kaggle.com/c/ga-customer-revenue-prediction
 ```

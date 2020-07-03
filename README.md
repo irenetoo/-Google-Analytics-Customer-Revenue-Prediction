@@ -2,9 +2,9 @@
 A group project on predicting how much GStore customers will spend
 
 ## Teammates
-- Kak D Wing
+- Kak D-Wing
 - Tan Bing Shien
-- Teo Boon Leong
+- Teo Boon Long
 - Too Ai Leng
 
 Competition Link:

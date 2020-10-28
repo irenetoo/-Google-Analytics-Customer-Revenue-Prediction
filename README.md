@@ -1,6 +1,5 @@
 # Google Analytics Customer Revenue Prediction
 A group project on predicting how much GStore customers will spend
-- Using: LightGBM and CatBoost
 
 ## Teammates
 - Kak D-Wing
